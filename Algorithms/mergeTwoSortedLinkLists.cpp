@@ -1,7 +1,3 @@
-// Task 2 of DSA Lab 2
-// Junaid Saleem
-// 2022243
-
 #include <iostream>
 using namespace std;
 
